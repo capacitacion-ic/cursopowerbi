@@ -1,0 +1,9 @@
+Importe el libro de Excel llamado ResumenVentasCompleto.xlsx
+
+Cree dos columnas calculadas para conocer el total de ventas de noviembre y diciembre de 2018 así como el total de ventas del primer trimestre de 2019, ambas por empleado.
+
+Cree cuatro mediciones para saber: total y promedio de ventas generales 2018 (noviembre y diciembre), total y promedio de ventas generales del primer trimestre.
+
+En un panel deberá tener mostrar objetos visuales por: el total de ventas por empleado, el total de ventas 2018 y 2019, top de los 20 vendedores más altos y los 20 más bajos
+
+Agregue al panel el logo de la empresa
